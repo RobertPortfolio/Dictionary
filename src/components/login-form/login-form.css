@@ -1,0 +1,48 @@
+.login-form {
+	margin-top: 60px;
+}
+
+.form-custom {
+	width: 650px;
+	height: 500px;
+	background-color: #6BBC49;
+	border-radius: 33px;
+}
+
+.input-custom {
+	height: 92px;
+}
+
+.button-custom {
+	width: 200px;
+	height: 70px;
+}
+
+.label-text {
+	font-family: Inknut Antiqua;
+	font-size: 32px;
+	font-weight: 400;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: white;
+}
+
+.input-text {
+	font-family: Inknut Antiqua;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+}
+
+.button-text {
+	font-family: Inknut Antiqua;
+	font-size: 24px;
+	font-weight: 700;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: #244454;
+}
