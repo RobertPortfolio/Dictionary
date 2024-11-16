@@ -9,8 +9,7 @@ const LoginPage = () => {
 			<img 
 				src={Plant} 
 				alt="plant" 
-				className="position-fixed bottom-0 end-0"
-				style={{width: '350px', height: 'auto'}} />
+				className="position-fixed bottom-0 end-0 w-25" />
 		</>
 	)
 };
